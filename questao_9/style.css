@@ -1,0 +1,40 @@
+.container {
+    text-align: center;
+    margin: 0 auto;
+    width: 40%; 
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 15px solid white;
+
+    
+
+}
+body{
+    background-color: #eeeeee;
+    margin: 0px;
+}
+
+.titulo {
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify center;
+}
+
+.texto {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}

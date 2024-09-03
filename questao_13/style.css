@@ -1,0 +1,33 @@
+/* Seletor universal */
+* {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Seletor de tipo */
+  p {
+    color: blue;
+  }
+  
+  /* Seletor de classe */
+  .destaque {
+    font-weight: bold;
+    color: red;
+  }
+  
+  /* Seletor de ID */
+  #titulo-especial {
+    text-align: center;
+    background-color: lightgray;
+  }
+  
+  /* Seletor de atributo */
+  a[href] {
+    color: green;
+    text-decoration: none;
+  }
+  
+  /* Seletor de descendente */
+  .container p {
+    font-style: italic;
+    color: blueviolet;
+  }

@@ -1,0 +1,68 @@
+.logoInf{
+    width: 40px;
+    height: auto;
+    vertical-align:middle;
+  
+}
+ .logoGlobo{
+    width: 40px;
+    vertical-align:middle;
+ }
+
+ .logoLink{
+    width: 45px;
+    vertical-align:middle;
+
+ }
+ .logoYout{
+    width: 40px;
+    vertical-align:middle;
+
+ }
+
+ .logoInsta{
+    width: 40px;
+    vertical-align:middle;
+ }
+
+ .text {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "SUSE";
+    font-size: 23px;
+ }
+
+ /* .globo{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "SUSE";
+    font-size: 23px;
+ }
+
+ .linke{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "SUSE";
+    font-size: 23px;
+ }
+ .youT{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "SUSE";
+    font-size: 23px;
+ }
+ .insta{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "SUSE";
+    font-size: 23px;
+ } */
+
+ h1{
+    font-family: "SUSE";
+ }

@@ -1,0 +1,38 @@
+
+body{
+    background-color: antiquewhite;
+}
+.container{
+    width: 992px;
+    background-color: antiquewhite;
+    text-align: justify; 
+    margin: auto;
+}
+.cabecalho{
+    background-color: pink;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 25;
+
+    
+    
+}
+.logo{
+    width: 30px;
+    padding: 25; 
+}
+
+
+.texto{
+    color: black;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 3;
+    
+}
+.texto1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}

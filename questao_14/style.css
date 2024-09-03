@@ -1,0 +1,66 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.topo{
+    text-align: center;
+    background-color: pink;
+    font-size: 30px;   
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.texto{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+#foto{
+    border: 5px solid;
+    border-color: rgb(240, 178, 202);
+    border-radius: 50%;
+    width: 100;
+    
+}
+#containerFoto{
+    text-align: center;
+    padding-top: 20px;
+  
+}
+
+.conteudo{
+    text-align: justify;
+    text-align: center;
+    align-content: center;
+     padding-left: 300;
+    padding-right: 300; 
+    justify-content: center;
+}
+#sobre-mim{
+    text-align: center;
+}
+#meus-hobbies{
+    text-align: center;
+}
+#nome{
+    text-align: center;
+}
+
+#contato{
+    text-align: center;
+}
+
+
+#voltarTopo{
+    text-align: center;
+    padding-top: 30px;
+}
+.textoPe{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    border: 5px solid pink;
+border-radius: 40px;
+background-color: pink;
+}

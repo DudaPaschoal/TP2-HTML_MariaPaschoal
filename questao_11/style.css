@@ -1,0 +1,60 @@
+
+@font-face{
+    font-family: myFirstFont;
+    src: url(./Instagram\ Sans\ Medium.ttf)
+}
+@font-face{
+    font-family: instagramSansLight;
+    src: url(./Instagram\ Sans\ Light.ttf);
+}
+
+.container{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.cabecalho{
+    border: 1px solid #ddd;
+    background-color: #fafafa;
+    height: 65px;
+    text-align: center;
+}
+.logo{
+    width: 150px; 
+}
+
+.fotoperfil{
+    border-radius: 50% ;
+    width: 40px;
+    vertical-align: middle;
+    padding: 15px;
+    align-items:
+}
+
+.text{
+text-decoration: none;
+color: black;
+font-family: myFirstFont;
+}
+
+.fotoPostada{
+    width: 100%;
+}
+.iconCora{
+    width: 30;
+    padding-top: 10px;
+    padding-left: 15px;
+}
+
+#likes{
+    font-family: myFirstFont;
+    padding-left: 15;
+}
+
+#descricao{
+    padding-left: 15px;
+    font-family: instagramSansLight;
+}
